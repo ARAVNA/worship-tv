@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://worship-tv-site.vercel.app/sitemap.xml
+Sitemap: https://worshiptv.org/sitemap.xml
